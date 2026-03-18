@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+faiss-cpu
+ollama
+scikit-learn
+requests
+numpy
+pypdf
+playwright
