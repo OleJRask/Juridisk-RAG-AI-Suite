@@ -1,6 +1,6 @@
 # Juridisk RAG AI Suite
 
-Et fuldautomatisk system til analyse, filtrering og besvarelse af juridiske spørgsmål baseret på dansk lovgivning. Programmet henter, strukturerer og sammenfatter store mængder lovdata, genererer præcise resuméer, bygger søgbare databaser og leverer brugertilpassede svar via et intuitivt webinterface. Løsningen kombinerer avanceret tekstforståelse, robust databehandling og effektiv parallelisering for at sikre høj præcision, skalerbarhed og brugervenlighed i alle led – fra datakilde til slutbruger.
+Et fuldautomatisk system til analyse, filtrering og besvarelse af juridiske spørgsmål baseret på dansk lovgivning. Programmet henter, strukturerer og sammenfatter store mængder lovdata, genererer præcise resuméer, bygger søgbare databaser og leverer brugertilpassede svar via et intuitivt webinterface. Løsningen er designet til brug på lukkede, offline-systemer for at beskytte fortrolige dokumenter og undgå eksponering på internettet, og den kombinerer avanceret tekstforståelse, robust databehandling og effektiv parallelisering for at sikre høj præcision, skalerbarhed og brugervenlighed i alle led – fra datakilde til slutbruger.
 Denne version er beregnet som illustration og er derfor begrænset til kun at behandle love efter år 2000 fra Social- og Boligministeriet.
 
 ## Installation og brug
